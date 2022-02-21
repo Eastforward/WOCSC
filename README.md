@@ -26,8 +26,6 @@
 实际上一共22571条有效数据，81%为正面或者中性评论,19%为负面评论。（无论是哪一种，都不能完全代表是对冬奥会的评价，也许只是对视频的吐槽hh）
 **正面或者中性的词云**
 ![positive](./wordcloud_img/positive.png)
-
-
 **对比一下负面的**
 ![negative](./wordcloud_img/negative.png)
 
